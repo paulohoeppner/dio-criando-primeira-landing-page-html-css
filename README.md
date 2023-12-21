@@ -1,22 +1,79 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+<div align="center">
+    <h1>Potência Tech iFood - Desenvolvimento de Jogos</h1>
+</div>
+<br><br>
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+<div align="center">
+    <img src="assets\images\dio-logo.png" width="200" height="100" hspace="25">
+    <img src="assets\images\PotenciaTech-logo.png" width="200" height="100" hspace="25">
+    <img src="assets\images\ifood-logo.png" width="200" height="100" hspace="25">
+</div>
+<br><br>
 
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+<div align="center"><img src="assets\images\bootcamp-logo.png" width="" height="300" hspace="">
+</div>
+<br><br>
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+<div align="center"><img src="assets\images\bootcamp-dio.png" width="300" height="" hspace="10">
+</div>     
+<br><br>
 
-Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
-Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
-realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
-de estilo para que o resultado da estilização funcione.
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" hspace="10">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" hspace="10">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" hspace="10">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" hspace="10">     
+</div>
+<br><br>
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
-que você possa se basear.
+<div align="center">
+    <img src="https://img.shields.io/badge/IN%C3%8DCIO-29%2F10%2F2023-green" hspace="5"/>
+    <img src="https://img.shields.io/badge/T%C3%89RMINO-22%2F01%2F2024-red" hspace="5"/>
+</div>
+<br>
+<hr>
 
-*Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+## Introdução
+Olá,
+
+Esse repositório corresponde ao projeto "Criando sua Primeira Landing Page com HTML e CSS" da [DIO](https://www.dio.me/) (Digital Innovation One).
+<hr>
+
+## Objetivo
+
+Esse desafio teve a proposta da criação da primeira Landing Page institucional, utilizando HTML e CSS, onde o usuário poderá visualizar a divulgação de um projeto. Dessa forma, foi inserido elementos e informações fundamentais de um site.
+
+Explorado todos os conceitos que aprendemos nessa imersão e replicado este projeto prático. 
+<br><br>
+<hr>
+
+## Próximos passos
+
+Realizar futuras implementações para evolução do projeto inicial (projeto base), tais como, implementações adicionais e talvez explorar um domínio de aplicação diferente.
+<hr>
+
+## Tecnologias Utilizadas
+
+- HTML <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="75" height="20" hspace="5" style="margin-left: 10px"/> 
+- CSS <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="105" height="20" hspace="5" style="margin-left: 10px"/>
+
+
+## Cursos Envolvidos
+### **Potência Tech iFood - Desenvolvimento de Jogos** 
+#### **Criando suas Primeiras Páginas com HTML e CSS:**
+
+- Criando sua Primeira Landing Page com HTML e CSS.
+<hr>
+
+## Repositório Original do GitHub
+
+Referência direta ao código-fonte original.
+
+- Michele Ambrosio: [Michele Ambrosio](https://www.linkedin.com/in/michele-ambrosio-a4899661/)
+
+- Endereço: [trilha-css-desafio-01](https://github.com/digitalinnovationone/trilha-css-desafio-01)
+<hr>
+
+## Agradecimentos
+Gostaria de agradecer a [DIO](https://www.dio.me/) (Digital Innovation One) e a instrutora [Michele Ambrosio](https://www.linkedin.com/in/michele-ambrosio-a4899661/) por compartilhar seu conhecimento.
